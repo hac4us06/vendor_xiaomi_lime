@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),lime)
+ifeq ($(TARGET_DEVICE),lime,lemon,pomelo,chime,juice)
 
 endif
